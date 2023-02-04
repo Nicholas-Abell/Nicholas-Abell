@@ -4,7 +4,7 @@ I'm Nicholas Abell.
 
 I started my coding journey learning C# to make video games.
 Using Unity i made my first app, a score calculator for the board game Everdell that I made for my family.
-From there i switched to learning front end development. 
+From there i switched to learning front end development in hopes of turning my passion into a career. 
 I'm currently focusing on improving my skills in React.
 
 <!--
