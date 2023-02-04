@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Nicholas Abell.
+
+I started my coding journey learning C# to make video games using Unity.
+Using Unity i made my first app, a score calculator for the board game Everdell that I made for my family.
+From there i swithced to learning front end development. 
+I'm currently focusing on improving my skilss in React.
+
 <!--
 **Nicholas-Abell/Nicholas-Abell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
